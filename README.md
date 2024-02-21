@@ -1,3 +1,4 @@
+![logo] = (https://github.com/iamritikiit/iamritikiit/blob/main/Blue%20Futuristic%20Illustrative%20Artificial%20Intelligence%20Project%20Presentation.pdf)
 <h1 align="center">Hi 👋, I'm Ritik Kumar</h1>
 <h3 align="center">A passionate computer science student from India</h3>
 
