@@ -1,4 +1,4 @@
-![logo](https://github.com/iamritikiit/iamritikiit/blob/main/Blue%20Futuristic%20Illustrative%20Artificial%20Intelligence%20Project%20Presentation.png)
+![logo](https://github.com/iamritikiit/iamritikiit/blob/main/Blue%20%26%20White%20Futuristic%20Technology%20Facebook%20Cover.png)
 <h1 align="center">Hi 👋, I'm Ritik Kumar</h1>
 <h3 align="center">A passionate computer science student from India</h3>
 
