@@ -5,7 +5,7 @@
 <img align="right" width="400" alt="coding" src="https://64.media.tumblr.com/37aa3a0fc78a86820d1132976e6db281/56070aed5540446d-db/s500x750/5dad8e88b2a772230ec9f64746a0eade3d18e97b.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ritikkumar74363" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ritikkumar74363" height="30" width="40" /></a>
+<a href="https://twitter.com/ritikkumar1820" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ritikkumar74363" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ritik kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritik kumar" height="30" width="40" /></a>
 </p>
 
